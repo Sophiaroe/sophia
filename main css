@@ -16,7 +16,7 @@ h1 {
 	font-family: 'Oswald', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
-	background-color: pink;
+	background-color: purple;
 	margin: 70px;
 	padding: 50px;
 }
