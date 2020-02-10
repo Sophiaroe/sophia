@@ -24,11 +24,11 @@ h1 {
 p {
 	color: black;
 	font-size: 1.2em;
-	font-weight: 700;
+	font-weight: 900;
 	text-align: justify;
 	background-color: pink;
-	padding: 36px;
-	margin: 36px;
+	padding: 60px;
+	margin: 50px;
 }
 
 #Para1 {
