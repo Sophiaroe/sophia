@@ -11,14 +11,14 @@ body {
 
 h1 {
 	color: red;
-	font-size: 3em;
+	font-size: 9em;
 	font-weight: lighter;
 	font-family: 'Oswald', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
 	background-color: pink;
-	margin: 36px;
-	padding: 36px;
+	margin: 70px;
+	padding: 50px;
 }
 
 p {
