@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
 
 /* This section determines some 'top-level' formatting properties that are common to all the pages */
 body {
 	margin: 0px; /* Override any browser imposed defaults */
 	padding: 0px; /* Override any browser imposed defaults */
-	background-color: white;
-	font-family: Arial, Helvetica, sans-serif;
+	background-color: yellow;
+	font-family: 'Fredoka One', cursive;
 }
 
 h1 {
@@ -25,7 +26,7 @@ p {
 	font-size: 1.2em;
 	font-weight: 700;
 	text-align: justify;
-	background-color: lightblue;
+	background-color: pink;
 	padding: 36px;
 	margin: 36px;
 }
